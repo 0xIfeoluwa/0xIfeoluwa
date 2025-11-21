@@ -32,7 +32,7 @@ I believe in the power of sharing knowledge and building communities. Whether it
 - I'm always excited to chat about web development, collaborate on projects, or explore new opportunities!
 - 📧 Email: abisoyew1@gmail.com
 - 📄 Resume: [View my resume](#)
-- 💬 Open to: Coffee chats, code reviews, and collaboration!
+- 💬 Open to: Code reviews, and collaboration!
 
 ## 😊 Fun Facts About Me
 
