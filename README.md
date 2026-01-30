@@ -31,13 +31,13 @@ I believe in the power of sharing knowledge and building communities. Whether it
 **📬 Let's Connect!**
 - I'm always excited to chat about web development, collaborate on projects, or explore new opportunities!
 - 📧 Email: abisoyew1@gmail.com
-- 📄 Resume: [View my resume](https://drive.google.com/file/d/1z-E2hkCeEdq4XgbzAr5SuVCsqiG35kyP/view?usp=sharing)
+- 📄 Resume: [View my resume]([https://drive.google.com/file/d/1z-E2hkCeEdq4XgbzAr5SuVCsqiG35kyP/view?usp=sharing](https://drive.google.com/drive/folders/1tBrUP0xlzeNhQ-8NaEV_aTpMHsV77yMI?usp=sharing))
 - 💬 Open to: Code reviews, and collaboration!
 
 ## 😊 Fun Facts About Me
 
 - Pronouns: He/Him
-- Current Superpower: Learning how the web works while turning it into code
+- Current Superpower: Figuring how the web works while turning it into code
 - Learning Philosophy: "Every bug is just a lesson in disguise"
 - Favorite Thing: That moment when your code works on the first try (it's rare, but magical! ✨)
 
