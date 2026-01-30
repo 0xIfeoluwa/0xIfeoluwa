@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I'm a passionate Software Engineer on an exciting journey of building beautiful, functional web experiences! With a solid foundation in HTML, CSS, and JavaScript, I'm currently leveling up my skills with React and loving every moment of it.
+I am a software engineer with hands-on experience building responsive and user-focused web applications using HTML, CSS, JavaScript, and React.js. I have a strong understanding of modern frontend development practices, UI/UX principles, and component-based architecture, with a focus on delivering clean, scalable, and maintainable solutions.
 
 ## 💫 What Drives Me
 I believe in the power of sharing knowledge and building communities. Whether it's through clear documentation, engaging tutorials, or collaborative projects, I'm all about making tech more accessible and enjoyable for everyone!
